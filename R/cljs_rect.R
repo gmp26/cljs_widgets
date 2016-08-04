@@ -5,7 +5,7 @@
 #' @import htmlwidgets
 #'
 #' @export
-cljs_rect <- function(fill = "#fa0", width = NULL, height = NULL) {
+cljs_rect <- function(fill = "#fa0", width = "100px", height = "100px") {
 
   # forward options using x
   x = list(
