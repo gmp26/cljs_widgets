@@ -2,7 +2,5 @@
 
 export(cljs_rect)
 export(cljs_rectOutput)
-export(demo1)
 export(renderCljs_rect)
-import("shiny")
 import(htmlwidgets)

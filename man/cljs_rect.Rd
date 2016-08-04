@@ -4,7 +4,7 @@
 \alias{cljs_rect}
 \title{cljs_rect}
 \usage{
-cljs_rect(fill = "#fa0", width = NULL, height = NULL)
+cljs_rect(fill = "#fa0", width = "100px", height = "100px")
 }
 \description{
 Draws a filled cljs_rectangle
